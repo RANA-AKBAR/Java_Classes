@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52fc2956-1b47-4aa7-9046-f357e43aefe2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Bear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BearTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="26" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Bear.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BearTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="types_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="types_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BearTest.hasGender">
+    <configuration name="BearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="types_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.hasGender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="types_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="hasGender" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.hasWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="types_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="hasWeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.readyToHibernateIfGreaterThan80" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="types_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="readyToHibernateIfGreaterThan80" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.readyToHibernateIfLessThan80" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="types_testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="readyToHibernateIfLessThan80" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BearTest.hasGender" />
+        <item itemvalue="JUnit.BearTest.readyToHibernateIfLessThan80" />
+        <item itemvalue="JUnit.BearTest.readyToHibernateIfGreaterThan80" />
+        <item itemvalue="JUnit.BearTest" />
+        <item itemvalue="JUnit.BearTest.hasWeight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52fc2956-1b47-4aa7-9046-f357e43aefe2" name="Default Changelist" comment="" />
+      <created>1567420104734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567420104734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BearTest_hasWeight - 2019.09.02 at 13h 41m 17s.xml">
+      <configuration name="BearTest.hasWeight" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_hasWeight - 2019.09.02 at 13h 42m 26s.xml">
+      <configuration name="BearTest.hasWeight" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.09.02 at 13h 42m 53s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.09.02 at 13h 43m 49s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.09.02 at 13h 44m 48s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_readyToHibernateIfLessThan80 - 2019.09.02 at 13h 53m 35s.xml">
+      <configuration name="BearTest.readyToHibernateIfLessThan80" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_readyToHibernateIfGreaterThan80 - 2019.09.02 at 13h 53m 40s.xml">
+      <configuration name="BearTest.readyToHibernateIfGreaterThan80" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_readyToHibernateIfLessThan80 - 2019.09.02 at 13h 55m 21s.xml">
+      <configuration name="BearTest.readyToHibernateIfLessThan80" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_readyToHibernateIfLessThan80 - 2019.09.02 at 13h 57m 36s.xml">
+      <configuration name="BearTest.readyToHibernateIfLessThan80" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_hasGender - 2019.09.02 at 14h 02m 04s.xml">
+      <configuration name="BearTest.hasGender" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32661784" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50061053" side_tool="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.498779" weight="0.3295711" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.29795918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
